@@ -1,0 +1,13 @@
+SUMMARY (selected seeds)
+    Model                  Selection             Test mean  Test std
+    -----------------------------------------------------------------
+    EEGNet (baseline)      ranks 0-25               0.8604    0.0047
+    EEG-ITNet              ranks 0-25               0.8635    0.0054
+    Inc_SE SmallMed        ranks 0-25               0.8655    0.0056
+    Inc_SE MedLarge        ranks 0-25               0.8624    0.0057
+    Inc_SE Inc3            ranks 0-25               0.8652    0.0046
+    Inc_SE Narrow          ranks 0-25               0.8655    0.0046
+    Inc_SE Narrow_10k      ranks 0-25               0.8685    0.0035
+    Inc_SE Narrow_7k       ranks 0-25               0.8667    0.0045
+    Inc SmallMed (no SE)   ranks 0-25               0.8664    0.0061
+    Inc Narrow_10k (no SE) ranks 0-25               0.8649    0.0050
